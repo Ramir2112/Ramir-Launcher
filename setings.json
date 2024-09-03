@@ -10,6 +10,7 @@
   "user_id": "",
   "folder": "",
   "exe": "",
+  "user_id2": "",
   "folder2": "",
   "ResetDu": "",
   "code": "1234",
@@ -24,6 +25,6 @@
   "program_tag2": "",
   "load_music_on_start": 1,
   "load_cloud_on_start": 1,
-  "Language": "Русский",
+  "Language": "English",
   "Synchronize brightness": "1"
 }
