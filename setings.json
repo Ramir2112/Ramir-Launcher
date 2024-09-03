@@ -1,18 +1,13 @@
 {
   "color": "green",
-  "active_volume": "1",
-  "version": "2024.08.24.16.53",
+  "version": "2024.09.03.14.05",
   "scale": "100%",
   "city": "",
   "theme": "System",
   "fake_ram": "0",
   "login": "",
   "password": "",
-  "last_post": "",
-  "last_post_link": "",
   "user_id": "",
-  "bot_token": "",
-  "user_id2": "0",
   "folder": "",
   "exe": "",
   "folder2": "",
@@ -28,5 +23,7 @@
   "program_tag": "",
   "program_tag2": "",
   "load_music_on_start": 1,
-  "load_cloud_on_start": 1
+  "load_cloud_on_start": 1,
+  "Language": "Русский",
+  "Synchronize brightness": "1"
 }
